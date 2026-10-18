@@ -23,35 +23,6 @@ My goal is to solve problems consistently, understand different approaches, and 
 
 *Solutions will be added as I continue learning and practicing.*
 
-## 📂 Repository Structure
-
-```text
-leetcode-series/
-│
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── BinarySearch/
-├── Sorting/
-├── Recursion/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-└── README.md
-```
-
-*The folder structure may evolve as I solve more problems.*
-
-## 📊 Problem-Solving Progress
-
-| Difficulty | Problems Solved |
-|---|---:|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **0** |
 
 *I will update this section as I solve more problems.*
 
